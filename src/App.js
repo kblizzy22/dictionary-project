@@ -9,7 +9,7 @@ function App() {
           Welcome to My Dictionary
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="winter"/>
         </main>
         <footer className="App-footer">Coded by Kelly Bailey-Alme</footer>
       </div>
